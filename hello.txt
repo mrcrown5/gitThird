@@ -6,3 +6,4 @@ git, hello
 Hello, world!
 perfectly balance
 future is our reality
+Hello, git rebase!
